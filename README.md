@@ -74,14 +74,11 @@
 <tr><td>
 
 ### 📊 Current Studies:
+![java-1.8](https://img.shields.io/badge/java-1.8-brightgreen)
 <div>
-  ![Static Badge](https://img.shields.io/badge/java)
     <img src="https://img.shields.io/badge/CSDN-论坛-blue" /></a>&emsp;
     <img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
-    
-  <!-- visitor statistics logo 访问量统计徽标 -->
-  <img src="https://komarev.com/ghpvc/?username=OnlySixpence&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
-  </div>
+</div>
 
 </td></tr>
 
