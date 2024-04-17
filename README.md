@@ -57,28 +57,17 @@
 
 <tr><td>
 
-### 🏢 Work Experience
+### 🏢 Education Background:
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/yuanze.png" />
+<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/OnlySixpence/OnlySixpence/assets/images/yuanze.png" />
 
-- [北京原则科技有限公司](https://lusun.com/) &emsp; 📌 2024-03-04 —— Now
+- 硕士：[西安电子科技大学](https://www.xidian.edu.cn/) &emsp; 📌 2021-09-01 —— Now
 
-  - 工作岗位：软件工程师
-  - 工作内容：创业
+<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/OnlySixpence/OnlySixpence/assets/images/tuhui.png" />
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/tuhui.png" />
+- 本科：[西安邮电大学](https://www.xiyou.edu.cn/) &emsp; 📌 2016-09-01 —— 2020-07-01
 
-- [广州图慧信息科技有限公司](https://www.tuhuimap.com/) &emsp; 📌 2023-06-19 —— 2024-01-19
-
-  - 工作岗位：Web 前端开发工程师
-  - 工作内容：杂活
-
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/nio.png" />
-
-- [蔚来汽车科技（安徽）有限公司](https://www.nio.cn/) &emsp; 📌 2023-02-20 —— 2023-05-12
-
-  - 工作岗位：Web 前端开发实习生
-  - 工作内容：参与一站式数据治理与研发平台 DataSight 的开发与维护工作
+<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/OnlySixpence/OnlySixpence/assets/images/nio.png" />
 
 </td></tr>
 
