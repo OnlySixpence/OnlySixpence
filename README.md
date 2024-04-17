@@ -79,10 +79,10 @@
 
 ### 📊 Technology stack:
 - backend development（熟练掌握）：
-  ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-  ![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=fff&style=flat)
+  ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&style=flat)
+  ![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=fff&style=flat)
   ![SpringMVC](https://img.shields.io/badge/SpringMVC-blue)
-  ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white&style=flat)
   ![Git](https://img.shields.io/badge/Git-brown)
 
 - backend development（掌握中）：
@@ -95,20 +95,15 @@
 ![pytorch](https://img.shields.io/badge/pytorch-brightgreen)
 ![Log anomaly detection](https://img.shields.io/badge/Log%20anomaly%20detection-blue)
 
+<!-- programming tool icon 编程工具图标 -->
+<img src="https://skillicons.dev/icons?i=java,mysql,idea,git,kafka,elasticsearch,pytorch" /><br>
+
 </td></tr>
 
 </table>
 
 <!-- ####################################### 分割 ###################################### -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/OnlySixpence/OnlySixpence/assets/images/hr.gif" />
-
-
-
-<!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="https://cdn.jsdelivr.net/gh/OnlySixpence/OnlySixpence/assets/images/hr.gif" />
-
-<!-- programming tool icon 编程工具图标 -->
-<img src="https://skillicons.dev/icons?i=ps,ai,pr,c,cpp,cs,ts,discord,twitter,mongodb,instagram,idea,git" /><br>
 
 <!-- profile-3d-contrib 3D 贡献图-->
 <picture>
