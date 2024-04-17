@@ -69,7 +69,7 @@
 
 ### 📃 Recent Blog
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/OnlySixpence/OnlySixpence/assets/images/astronaut.png" />
+<img align="right" width="66" src="https://cdn.jsdelivr.net/gh/OnlySixpence/OnlySixpence/assets/images/astronaut.png" />
 
 <!-- START_SECTION:blog -->
 * <a href='https://blog.csdn.net/qq_42480898/article/details/123283812?spm=1001.2014.3001.5501' target='_blank'>DeepLog实验（自用）</a> - 2022-03-04
