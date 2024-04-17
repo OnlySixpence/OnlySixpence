@@ -69,8 +69,6 @@
 
 ### 📃 Recent Blog
 
-<img align="right" width="66" src="https://cdn.jsdelivr.net/gh/OnlySixpence/OnlySixpence/assets/images/astronaut.png" />
-
 <!-- START_SECTION:blog -->
 * <a href='https://blog.csdn.net/qq_42480898/article/details/123283812?spm=1001.2014.3001.5501' target='_blank'>DeepLog实验（自用）</a> - 2022-03-04
 <!-- END_SECTION:blog -->
@@ -79,25 +77,7 @@
 
 <tr><td>
 
-### 🧠 Second Brain
-
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/technologist.png" />
-
-<!-- START_SECTION:brain -->
-* <a href='https://brain.sunguoqi.com/web/frontend/guide/evolution.html' target='_blank'>前端开发演进史</a> - 2023-03-25
-* <a href='https://brain.sunguoqi.com/web/frontend/guide/what-is.html' target='_blank'>什么是前端开发</a> - 2024-02-20
-* <a href='https://brain.sunguoqi.com/web/frontend/js/es6/test.html' target='_blank'>es6</a> - 2023-09-07
-* <a href='https://brain.sunguoqi.com/web/frontend/js/js/test.html' target='_blank'>JS</a> - 2023-09-07
-* <a href='https://brain.sunguoqi.com/web/frontend/tools/git/git.html' target='_blank'>Git</a> - 2023-12-08
-<!-- END_SECTION:brain -->
-
-</td></tr>
-
-<tr><td>
-
 ### 🤾‍♂️ Funny Soul
-
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/artist.png" />
 
 <!-- START_SECTION:douban -->
 * <a href='https://book.douban.com/subject/35193035/' target='_blank'>读过认知觉醒</a> 🌟🌟🌟🌟🌟 力荐- 2023-11-10
@@ -115,69 +95,19 @@
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=sun0225SUN&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true"
+    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=OnlySixpence&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=sun0225SUN&layout=compact&text_color=1f2328&bg_color=00000000&hide_border=true&hide_title=true"
+    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=OnlySixpence&layout=compact&text_color=1f2328&bg_color=00000000&hide_border=true&hide_title=true"
     media="(prefers-color-scheme: light)"
   />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sun0225SUN&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=OnlySixpence&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true" />
 </picture>
 
 </td></tr>
 
-<tr><td>
-
-<!--START_SECTION:waka-->
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                503 commits         ███████░░░░░░░░░░░░░░░░░░   28.13 % 
-🌆 Daytime                547 commits         ████████░░░░░░░░░░░░░░░░░   30.59 % 
-🌃 Evening                445 commits         ██████░░░░░░░░░░░░░░░░░░░   24.89 % 
-🌙 Night                  293 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.39 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   162 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.06 % 
-Tuesday                  142 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
-Wednesday                270 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.10 % 
-Thursday                 239 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.37 % 
-Friday                   563 commits         ████████░░░░░░░░░░░░░░░░░   31.49 % 
-Saturday                 149 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-Sunday                   263 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-TypeScript               7 hrs 36 mins       ████████████░░░░░░░░░░░░░   46.45 % 
-JavaScript               2 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.46 % 
-Markdown                 1 hr 36 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.85 % 
-Vue.js                   1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.78 % 
-JSON                     1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 % 
-
-🔥 Editors: 
-VS Code                  16 hrs 22 mins      █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Mac                      16 hrs 22 mins      █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 29/03/2024 01:15:34 UTC
-<!--END_SECTION:waka-->
-
-</td></tr>
-
 </table>
-
 
 <!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
@@ -185,7 +115,7 @@ Mac                      16 hrs 22 mins      ███████████�
 <div align="center">
 
 <!-- run 图片 -->
-<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/man_run.png" width="250" height="250" />
+<img src="https://cdn.jsdelivr.net/gh/OnlySixpence/OnlySixpence/assets/images/man_run.png" width="250" height="250" />
 
 <!-- Joke 笑话 -->
 <div>
