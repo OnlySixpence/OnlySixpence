@@ -73,42 +73,39 @@
 
 <tr><td>
 
-### 📊 Current Studies:
-![java-1.8](https://img.shields.io/badge/java-1.8-brightgreen)
-<div>
-    <img src="https://img.shields.io/badge/CSDN-论坛-blue" /></a>&emsp;
-    <img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
-</div>
+### 📊 Technology stack:
+- backend development（熟练掌握）：
+  ![java-1.8](https://img.shields.io/badge/java-1.8-brightgreen)
+  ![SpringMVC](https://img.shields.io/badge/SpringMVC-blue)
+  ![MySQL](https://img.shields.io/badge/MySQL-red)
+  ![Git](https://img.shields.io/badge/Git-brown)
+
+- backend development（掌握中）：
+![Redis](https://img.shields.io/badge/Redis-pink)
+![Kafka](https://img.shields.io/badge/Kafka-orange)
+![ElasticSearch](https://img.shields.io/badge/ElasticSearch-purple)
+
+- research：
+![pytorch](https://img.shields.io/badge/pytorch-brightgreen)
+![Log anomaly detection](https://img.shields.io/badge/Log%20anomaly%20detection-blue)
 
 </td></tr>
 
 </table>
 
-<!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
+<!-- ####################################### 分割 ###################################### -->
+<img width="200%" src="https://cdn.jsdelivr.net/gh/OnlySixpence/OnlySixpence/assets/images/hr.gif" />
 
 <div align="center">
 
-<!-- run 图片 -->
-<img src="https://cdn.jsdelivr.net/gh/OnlySixpence/OnlySixpence/assets/images/man_run.png" width="250" height="250" />
-
-<!-- Joke 笑话 -->
-<div>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23121212" />
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%ffffff" />
-    <img alt="Jokes Card" src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23121212" />
-  </picture>
-</div>
-
 <!-- github-readme-streak-stats 连续提交代码天数记录 -->
-<img align="left" width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/left.png" />
+<img align="left" width="150" src="https://cdn.jsdelivr.net/gh/OnlySixpence/OnlySixpence/assets/images/left.png" />
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=sun0225SUN&theme=dark&hide_border=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=sun0225SUN&theme=light&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sun0225SUN&theme=default&hide_border=true" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=OnlySixpence&theme=dark&hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=OnlySixpence&theme=light&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OnlySixpence&theme=default&hide_border=true" />
 </picture>
-<img align="right" width="150"  src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/right.png" />
+<img align="right" width="150"  src="https://cdn.jsdelivr.net/gh/OnlySixpence/OnlySixpence/assets/images/right.png" />
 
 <!-- metrics 基础资料 -->
 <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/cxyduck.gif" />&emsp;
