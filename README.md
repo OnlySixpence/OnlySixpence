@@ -32,13 +32,6 @@
 
 </div>
 
-  <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/OnlySixpence/OnlySixpence/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/OnlySixpence/OnlySixpence/profile-snake-contrib/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/OnlySixpence/OnlySixpence/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-  </picture>
-
 </div>
 
 #  🙋 Hello
@@ -102,11 +95,12 @@
 
 </table>
 
-<!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="https://cdn.jsdelivr.net/gh/OnlySixpence/OnlySixpence/assets/images/hr.gif" />
-
-<!-- GitHub metrics 信息指标 -->
-<div align="center">
+<!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/OnlySixpence/OnlySixpence/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/OnlySixpence/OnlySixpence/profile-snake-contrib/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/OnlySixpence/OnlySixpence/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+  </picture>
 
 <!-- just img 图片 -->
 <img src="https://cdn.jsdelivr.net/gh/OnlySixpence/OnlySixpence/assets/images/icon.png" /></div>
