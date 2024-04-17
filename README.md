@@ -102,26 +102,14 @@
 
 </table>
 
-<!-- ####################################### 分割 ###################################### -->
-<img width="200%" src="https://cdn.jsdelivr.net/gh/OnlySixpence/OnlySixpence/assets/images/hr.gif" />
-
-<!-- profile-3d-contrib 3D 贡献图-->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/OnlySixpence/OnlySixpence/profile-3d-contrib/profile-night-rainbow.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/OnlySixpence/OnlySixpence/profile-3d-contrib/profile-gitblock.svg" />
-  <img src="https://cdn.jsdelivr.net/gh/OnlySixpence/OnlySixpence/profile-3d-contrib/profile-night-rainbow.svg" />
-</picture>
-
-</div>
-
 <!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
+<img width="200%" src="https://cdn.jsdelivr.net/gh/OnlySixpence/OnlySixpence/assets/images/hr.gif" />
 
 <!-- GitHub metrics 信息指标 -->
 <div align="center">
 
 <!-- just img 图片 -->
-<img width="36%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/githubgif.gif" />
+<img width="36%" src="https://cdn.jsdelivr.net/gh/OnlySixpence/OnlySixpence/assets/images/githubgif.gif" />
 
 <!-- first form 第一个表格 -->
 <table>
