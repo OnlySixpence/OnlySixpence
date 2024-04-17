@@ -59,15 +59,9 @@
 
 ### 🏢 Education Background:
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/OnlySixpence/OnlySixpence/assets/images/yuanze.png" />
-
 - 硕士：[西安电子科技大学](https://www.xidian.edu.cn/) &emsp; 📌 2021-09-01 —— Now
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/OnlySixpence/OnlySixpence/assets/images/tuhui.png" />
-
 - 本科：[西安邮电大学](https://www.xiyou.edu.cn/) &emsp; 📌 2016-09-01 —— 2020-07-01
-
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/OnlySixpence/OnlySixpence/assets/images/nio.png" />
 
 </td></tr>
 
